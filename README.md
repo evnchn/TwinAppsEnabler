@@ -10,4 +10,9 @@ Enables all apps for cloning from "Advanced -> Twin Apps" in ZenUI phones (ASUS,
 2. Import "TwinAppsEnabler.flo"
 3. Run and enjoy
 
+## Results
+
+All apps show up in "Twin Apps" menu (loading now takes some time)
+![Demo](cover.png)
+
 
